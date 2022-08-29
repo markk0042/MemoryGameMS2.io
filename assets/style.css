@@ -5,3 +5,10 @@ body {
     -o-background-size: cover;
     width: 100%;
 }
+
+.wrapper {
+    height: 600px;
+    width: 60%;
+    margin: auto;
+    background-color: antiquewhite;
+}
